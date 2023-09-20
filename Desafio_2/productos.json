@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "title": "Pollo a la Parrilla",
+    "description": "Carnes",
+    "price": 2500,
+    "thumbnail": "2.jpg",
+    "code": "codigo2",
+    "stock": 1
+  }
+]
